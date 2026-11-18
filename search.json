@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Major League Baseball History",
+    "section": "",
+    "text": "Welcome! This site explores the history of Major League Baseball using Sean Lahman’s historical baseball database. By analyzing team and player statistics across more than a century of baseball, we investigate how offensive power has evolved over time.\nOur analysis reveals that apparent historical “collapses” in total home runs were often artifacts of shortened seasons—such as the strikes of 1981 and 1994 or the pandemic season of 2020—rather than true drops in power, as home runs per game followed normal historical trends. In addition, we examine the game’s all-time career home run leaders, the heavy presence of the steroid era among the top sluggers, and the peak seasons of home run king Barry Bonds.\nUse the Home runs and Sluggers links in the navigation bar above to explore the full analysis."
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "# A tibble: 4 × 4\n  yearID total_home_runs total_team_games home_runs_per_game\n   &lt;int&gt;           &lt;int&gt;            &lt;int&gt;              &lt;dbl&gt;\n1   1981            1781             2788              0.639\n2   1994            3306             3200              1.03 \n3   2019            6776             4858              1.39 \n4   2020            2304             1796              1.28"
+  }
+]
